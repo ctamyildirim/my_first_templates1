@@ -259,6 +259,7 @@ body{
     margin-left: 25px;
     margin-right: 25px;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
+    cursor:pointer ;
 
 }
 .head_Menu_Text_Link:link{
